@@ -66,7 +66,7 @@
  .heroFireman {
      position: absolute;
      right: 55vw;
-     top: 200px;
+     top: 150px;
  }
 
  .heroFireman::after {
@@ -76,14 +76,14 @@
      top: 90%;
      transform: translateX(-50%);
      color: #464480;
-     font-size: 15px;
+     font-size: 13px;
      content: "Yong`in xavfsizligi xizmati";
  }
 
  .heroFiremanArrow {
      position: absolute;
      bottom: -8%;
-     right: -8%;
+     left: 80%;
  }
 
  .heroMedic {
@@ -97,7 +97,7 @@
      right: 100%;
      bottom: 0%;
      color: #464480;
-     font-size: 15px;
+     font-size: 13px;
      content: "Tez tibbiy yordam";
  }
 
